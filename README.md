@@ -28,8 +28,7 @@ Check out some of my work on GitHub:
 ### [ImpossibleList](https://github.com/ismailnyza/ImpossibleList)
 A Spring Boot application following best OOP practices, helping users achieve their "impossible" goals by breaking them into manageable tasks.
 
-### [Smart Home Office Setup](https://github.com/ismailnyza/SmartHomeOffice)
-A DIY guide to transforming an old room into a state-of-the-art smart home office with optimized tech, gadgets, and personalized setups.
+### a cli based front end framework
 
 ### [Wikipedia Classification GPT](https://github.com/ismailnyza/WikipediaClassificationGPT)
 A GPT-based model trained on BERT embeddings for multi-class classification of Wikipedia articles, focusing on dataset balancing and NLP techniques.
